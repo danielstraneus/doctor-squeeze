@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Joakim Edkvist",
+    "position": "Managing Director",
+    "qualification": "MA",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Don't stop believing!",
+    "food": "Meatballs and spaghetti",
+    "frontImg": "images/Joakim1.jpg",
+    "backImg": "images/Joakim2.jpg"
+  },
+  {
+    "name": "Emelie Westberg",
+    "position": "Head of Creative Arts",
+    "qualification": "MFPHM",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "May the force be with you",
+    "food": "Turkish yoghurt and berries",
+    "frontImg": "images/Emelie1.jpg",
+    "backImg": "images/Emelie2.jpg"
+  },
+  {
+    "name": "David Mould",
+    "position": "Product Ambassador",
+    "qualification": "CPH",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Out of Darkness, Cometh Light",
+    "food": "Jerk chicken, rice and peas",
+    "frontImg": "images/David1.jpg",
+    "backImg": "images/David2.jpg"
+  },
+  {
+    "name": "Gustav Löwen-Åberg",
+    "position": "Global Ambassador",
+    "qualification": "GP",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Live on the wildside",
+    "food": "Meat",
+    "frontImg": "images/Gustav1.jpg",
+    "backImg": "images/Gustav2.jpg"
+  },
+  {
+    "name": "Radames Gaggiola",
+    "position": "Financial Execuetive",
+    "qualification": "BPharm",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Forza Milan!",
+    "food": "Kebab Pizza",
+    "frontImg": "images/Radames1.jpg",
+    "backImg": "images/Radames2.jpg"
+  },
+  {
+    "name": "Daniel Stranéus",
+    "position": "Head of Science",
+    "qualification": "MMedSc",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Drop the pressure",
+    "food": "Hotdog",
+    "frontImg": "images/Daniel1.jpg",
+    "backImg": "images/Daniel2.jpg"
+  },
+  {
+    "name": "Gustav Svensson",
+    "position": "Web Developer",
+    "qualification": "FRSH",
+    "email": "fa-regular fa-envelope",
+    "linkedin": "fa-brands fa-linkedin",
+    "twitter": "fa-brands fa-twitter",
+    "instagram": "fa-brands fa-instagram",
+    "quote": "Glory glory Man United",
+    "food": "Hamburger and fries",
+    "frontImg": "images/Svensson1.jpg",
+    "backImg": "images/Svensson2.jpg"
+  }
+]
